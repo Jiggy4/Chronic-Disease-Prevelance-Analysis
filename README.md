@@ -1,4 +1,4 @@
-# Chronic Disease Prevalence Analysis
+# Project Architecture for Chronic Disease Prevalence Analysis
 
 ## Overview
 This project focuses on analyzing the prevalence of chronic diseases among seniors aged 65+ across the nine U.S. Census districts. The goal is to identify the prevalence rates of COPD, diabetes, and osteoporosis within these regions, and provide insights that could guide public health planning and resource allocation for a health insurance company's potential market expansion.
